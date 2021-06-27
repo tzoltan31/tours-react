@@ -13,7 +13,7 @@ const Tours = ({ id, name, info, image, price, handleDelete }) => {
   return (
     <article className="tour">
       <div className="tour__top">
-        <img src={image} />
+        <img src={image} alt={name}/>
       </div>
       <div className="tour__bottom">
         <div className="tour__bottom_title">
