@@ -1,2 +1,2 @@
 # tours-react
-From John Smilga's react course
+From John Smilga's react projects 
